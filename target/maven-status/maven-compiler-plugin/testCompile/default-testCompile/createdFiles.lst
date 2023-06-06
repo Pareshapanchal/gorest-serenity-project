@@ -1,0 +1,4 @@
+com\gorest\gorestinfo\PostsCRUDTest.class
+com\gorest\gorestinfo\UserCRUDTest.class
+com\gorest\testbase\TestBase.class
+com\gorest\gorestinfo\CreateUserDataDrivenTest.class

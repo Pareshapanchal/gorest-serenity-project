@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create user data driven test","This test will add new user in the application","SUCCESS","2023-06-06T23:15:37.619+01:00[Europe/London]","0.0","9.11"
+"Create user data driven test","This test will delete user information from the application and verify user deleted successfully","SUCCESS","2023-06-06T23:15:37.624+01:00[Europe/London]","0.0","13.09"
+"Create user data driven test","Get all the user list on the page 1 to per_page 20","SUCCESS","2023-06-06T23:15:37.624+01:00[Europe/London]","0.0","6.55"
